@@ -1,0 +1,29 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+    margin: 0;
+    background: #FEBCBD;
+    text-align: center;
+   
+}
+	
+h1{ font-bold:true; display: inline;
+ font-family: Impact;
+}
+
+h2 {
+	background-color: yellow;
+	font-family: Impact;
+	
+	
+}
+
+h3{
+	color: red;
+}
+
+article{
+	column-count: 3;
+	column-gap: normal;
+}
